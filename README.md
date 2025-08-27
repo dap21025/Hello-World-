@@ -1,8 +1,8 @@
 # Hello-World
 Homework 1 - Repository practice - Git and GitHub
 
-### Subsection
+### Subsection font size and format
 
-## Section
+## Section font size and format
 
-I couldn't really see what Professor wrote so I'm just doing this
+Inline math: $\Gamma(x) = \int_0^{\infty} e^{-t} x^t dt$
